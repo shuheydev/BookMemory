@@ -1,0 +1,269 @@
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\ApplicationIcon.png
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\Background.png
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\BookMemory.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\BookMemory.pdb
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\AppManifest.xaml
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\BookMemory.xap
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shu\Desktop\BookMemory\BookMemory\obj\Debug\App.g.i.cs
+C:\Users\shu\Desktop\BookMemory\BookMemory\obj\Debug\AllBookListPage.g.i.cs
+C:\Users\shu\Desktop\BookMemory\BookMemory\obj\Debug\MainPage.g.i.cs
+C:\Users\shu\Desktop\BookMemory\BookMemory\obj\Debug\BookMemory.g.resources
+C:\Users\shu\Desktop\BookMemory\BookMemory\obj\Debug\BookMemory.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\obj\Debug\BookMemory.pdb
+C:\Users\shu\Desktop\BookMemory\BookMemory\obj\Debug\XapCacheFile.xml
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\Silverlight_ZXing_Core.dll
+C:\Users\shu\Desktop\BookMemory\BookMemory\Bin\Debug\WP7_Barcode_Library.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\App.g.cs
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\AllBookListPage.g.cs
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BarcordScanPage.g.cs
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\MainPage.g.cs
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.g.resources
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.pdb
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ApplicationIcon.png
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Background.png
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\BookMemory.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\BookMemory.pdb
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\AppManifest.xaml
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\BookMemory.xap
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\XapCacheFile.xml
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\DetailPage.g.cs
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+E:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.csprojResolveAssemblyReference.cache
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ApplicationIcon.png
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Background.png
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\BookMemory.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\BookMemory.pdb
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Silverlight_ZXing_Core.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\WP7_Barcode_Library.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\ResolveAssemblyReference.cache
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\App.g.i.cs
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\AllBookListPage.g.i.cs
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BarcordScanPage.g.i.cs
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\DetailPage.g.i.cs
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\MainPage.g.i.cs
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.g.resources
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.dll
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.pdb
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\AppManifest.xaml
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\BookMemory.xap
+F:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\XapCacheFile.xml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ApplicationIcon.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Background.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\BookMemory.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\BookMemory.pdb
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\AppManifest.xaml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\BookMemory.xap
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\AWSWP7SDK.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.csprojResolveAssemblyReference.cache
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\App.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\AllBookListPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BarcordScanPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\DetailPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\MainPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.g.resources
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\BookMemory.pdb
+D:\Document\プログラミング\windows phone app\Projects\BookMemory\BookMemory\obj\Debug\XapCacheFile.xml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\ApplicationIcon.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\Background.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\BookMemory.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\BookMemory.pdb
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\AppManifest.xaml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\BookMemory.xap
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\obj\Debug\BookMemory.csprojResolveAssemblyReference.cache
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\obj\Debug\App.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\obj\Debug\AllBookListPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\obj\Debug\BarcordScanPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\obj\Debug\DetailPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\obj\Debug\MainPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\obj\Debug\BookMemory.g.resources
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\obj\Debug\BookMemory.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\obj\Debug\BookMemory.pdb
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\BookMemory_バージョンがわからない\BookMemory\obj\Debug\XapCacheFile.xml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\ApplicationIcon.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\Background.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\BookMemory.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\BookMemory.pdb
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\AppManifest.xaml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\BookMemory.xap
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\obj\Debug\BookMemory.csprojResolveAssemblyReference.cache
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\obj\Debug\App.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\obj\Debug\AllBookListPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\obj\Debug\BarcordScanPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\obj\Debug\DetailPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\obj\Debug\MainPage.g.cs
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\obj\Debug\BookMemory.g.resources
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\obj\Debug\BookMemory.dll
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\obj\Debug\BookMemory.pdb
+D:\Document\プログラミング\windows phone app\Projects\BookMemory_まとめフォルダ\20140213_BookMemory\BookMemory\obj\Debug\XapCacheFile.xml

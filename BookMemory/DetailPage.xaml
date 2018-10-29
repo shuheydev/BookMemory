@@ -1,0 +1,214 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="BookMemory.DetailPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    d:DesignHeight="696" d:DesignWidth="480"
+    >
+
+
+    <!-- 画面に入ってきた時のアニメーション -->
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn"/>
+            </toolkit:NavigationInTransition.Forward>
+
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+
+    <!-- 画面から出ていく時のアニメーション -->
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+
+
+
+    <!--LayoutRoot は、すべてのページ コンテンツが配置されるルート グリッドです-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <controls:Panorama Name="Panorama" Title="タイトル" TitleTemplate="{StaticResource SmallPanoramaTitle}" Background="{StaticResource PhoneBackgroundBrush}">
+            <!--パノラマ アイテム 1-->
+            <controls:PanoramaItem >
+                <Grid Height="520"  Margin="0,-30,0,0">
+                    <Image HorizontalAlignment="Center" x:Name="Image_BookImage" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5">
+                        <Image.Projection>
+                            <PlaneProjection/>
+                        </Image.Projection>
+                        <Image.RenderTransform>
+                            <CompositeTransform x:Name="transform"/>
+                        </Image.RenderTransform>
+                        <!--
+                        <toolkit:GestureService.GestureListener>
+                            <toolkit:GestureListener 
+        				Hold="OnHold" DoubleTap="OnDoubleTap"
+        				DragDelta="OnDragDelta"
+        				PinchStarted="OnPinchStarted" PinchDelta="OnPinchDelta"/>
+                        </toolkit:GestureService.GestureListener>
+                        -->
+                    </Image>
+                </Grid>
+            </controls:PanoramaItem>
+
+            <!--パノラマ アイテム 2-->
+            <controls:PanoramaItem  >
+                <!--ContentPanel - 追加コンテンツをここに入力します-->
+
+                <Grid>
+                    <ListBox VerticalAlignment="Top" HorizontalAlignment="Left" >
+                        <TextBlock Margin="10,10,0,0" Text="Title:" FontSize="24" HorizontalAlignment="Left" Width="162" Height="40" VerticalAlignment="Top"/>
+                        <toolkit:PhoneTextBox Hint="Title" Text="New Book" Name="TextBox_Title" TextWrapping="Wrap" Width="420" FontSize="26" MinHeight="75" InputScope="Text" TextChanged="TextBox_Name_TextChanged" AcceptsReturn="False" Background="White" BorderBrush="Black" DoubleTap="TextBox_DoubleTap"/>
+                        <TextBlock Margin="10,10,0,0" Text="EAN:" FontSize="24" HorizontalAlignment="Left" Width="162" Height="40" VerticalAlignment="Top"/>
+                        <toolkit:PhoneTextBox Text="{Binding EAN}" Hint="EAN" Name="TextBox_EAN" Width="420" FontSize="26" Height="75" Background="White" BorderBrush="Black" DoubleTap="TextBox_DoubleTap"/>
+
+                        <TextBlock Margin="10,10,0,0" Text="Authors:" FontSize="24" HorizontalAlignment="Left" Width="162" Height="40" VerticalAlignment="Top"/>
+                        <toolkit:PhoneTextBox Hint="Authors" x:Name="TextBox_Authors" MinHeight="75" Width="420" FontSize="26" InputScope="PersonalFullName" Background="White" BorderBrush="Black" TextWrapping="Wrap" AcceptsReturn="True" DoubleTap="TextBox_DoubleTap"/>
+                        <TextBlock Margin="10,10,0,0" Text="Publisher:" FontSize="24" HorizontalAlignment="Left" Width="162" Height="40" VerticalAlignment="Top"/>
+                        <toolkit:PhoneTextBox Hint="Publisher" x:Name="TextBox_Publisher" Height="75" Width="420" FontSize="26" InputScope="Text" Background="White" BorderBrush="Black" DoubleTap="TextBox_DoubleTap"/>
+                        <TextBlock Margin="10,10,0,0" Text="Publication Date:" FontSize="24" HorizontalAlignment="Left" Width="191" Height="40" VerticalAlignment="Top"/>
+                        <Grid Margin="13,10,0,0" Width="395" >
+                            <!--コンテキストメニューの定義-->
+                            <toolkit:ContextMenuService.ContextMenu>
+                                <toolkit:ContextMenu IsZoomEnabled="true">
+                                    <toolkit:MenuItem Header="Clear" Click="MenuItem_Clear_Click" />
+                                </toolkit:ContextMenu>
+                            </toolkit:ContextMenuService.ContextMenu>
+                            <Rectangle Height="60" Stroke="Black" StrokeThickness="3" Fill="White" />
+                            <toolkit:DatePicker Name="DatePicker_Publish" Width="400" Background="White" BorderBrush="Black" Foreground="Black" ManipulationStarted="DatePicker_ManipulationStarted" />
+                            <TextBlock Margin="0,11,0,1" FontSize="32" Height="60" Width="395" Text="Set" Tap="TextBlock_Set_Tap" Foreground="Black" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+
+                        <TextBlock Margin="10,10,0,0" Text="Price:" FontSize="24" HorizontalAlignment="Left" Width="162" Height="40" VerticalAlignment="Top"/>
+                        <StackPanel Orientation="Horizontal">
+                            <toolkit:PhoneTextBox Hint="Price" x:Name="TextBox_Price" Width="300" FontSize="26" Height="75" InputScope="Number" Background="White" BorderBrush="Black" DoubleTap="TextBox_DoubleTap"/>
+                            <toolkit:PhoneTextBox Name="TextBox_Currency" Margin="10,0,0,0" FontSize="26" HorizontalAlignment="Left" Width="100" Height="75" VerticalAlignment="Top" Background="White" BorderBrush="Black" InputScope="Text" DoubleTap="TextBox_DoubleTap"/>
+                        </StackPanel>
+                        <TextBlock Margin="10,10,0,0" Text="Language:" FontSize="24" HorizontalAlignment="Left" Width="191" Height="40" VerticalAlignment="Top"/>
+                        <toolkit:PhoneTextBox Hint="Language" x:Name="TextBox_Language" TextWrapping="Wrap" Width="420" FontSize="26" MinHeight="75" AcceptsReturn="True" Background="White" BorderBrush="Black" DoubleTap="TextBox_DoubleTap"/>
+                        <TextBlock Margin="10,10,0,0" Text="Type:" FontSize="24" HorizontalAlignment="Left" Width="191" Height="40" VerticalAlignment="Top"/>
+                        <toolkit:PhoneTextBox Hint="Type" x:Name="TextBox_Type" Width="420" FontSize="26" MinHeight="75" Background="White" BorderBrush="Black" InputScope="Text" DoubleTap="TextBox_DoubleTap"/>
+                    </ListBox>
+                    <Grid Name="Grid_Notice" Background="#67000000" Tap="Grid_Nortice_Tap">
+                        <TextBlock Name="TextBlock_Notice" Text="Search Notification" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Center"  TextAlignment="Center"/>
+                    </Grid>
+                </Grid>
+            </controls:PanoramaItem>
+
+            <!--パノラマ アイテム 3-->
+            <controls:PanoramaItem>
+                <Grid>
+                    <ListBox VerticalAlignment="Top" HorizontalAlignment="Left" >
+                        <TextBlock Margin="10,10,0,0" Text="Reading Status:" FontSize="24" HorizontalAlignment="Left" Width="200" Height="40" VerticalAlignment="Top"/>
+                        <toolkit:ListPicker Name="ListPicker_Status" Margin="13,10,0,0" Width="395" BorderBrush="Black" Foreground="Black" Background="White">
+                            <toolkit:ListPickerItem Content="Not yet" />
+                            <toolkit:ListPickerItem Content="Reading"/>
+                            <toolkit:ListPickerItem Content="Finished"/>
+                        </toolkit:ListPicker>
+                        <TextBlock Margin="10,10,0,0" Text="Rating:" FontSize="24" HorizontalAlignment="Left" Width="191" Height="40" VerticalAlignment="Top"/>
+                        <toolkit:Rating Name="Rating_Rate" Margin="20,10,0,0" Value="2.5" >
+                            <!--コンテキストメニューの定義-->
+                            <toolkit:ContextMenuService.ContextMenu>
+                                <toolkit:ContextMenu IsZoomEnabled="true">
+                                    <toolkit:MenuItem Header="Clear" Click="MenuItem_Rating_Clear_Click" />
+                                </toolkit:ContextMenu>
+                            </toolkit:ContextMenuService.ContextMenu>
+                            <toolkit:Rating.FilledItemStyle>
+                                <Style TargetType="toolkit:RatingItem">
+                                    <Setter Property="Background" Value="{StaticResource PhoneAccentBrush}" />
+
+                                </Style>
+                            </toolkit:Rating.FilledItemStyle>
+                            <toolkit:Rating.UnfilledItemStyle>
+                                <Style TargetType="toolkit:RatingItem">
+                                    <Setter Property="Background" Value="Gray" />
+                                </Style>
+                            </toolkit:Rating.UnfilledItemStyle>
+                        </toolkit:Rating>
+
+
+
+
+                        <TextBlock Margin="10,10,0,0" Text="Purchase Date:" FontSize="24" HorizontalAlignment="Left" Width="200" Height="40" VerticalAlignment="Top"/>
+                        <Grid Margin="13,10,0,0" Width="395">
+                            <!--コンテキストメニューの定義-->
+                            <toolkit:ContextMenuService.ContextMenu>
+                                <toolkit:ContextMenu IsZoomEnabled="true">
+                                    <toolkit:MenuItem Header="Clear" Click="MenuItem_Clear_Click" />
+                                </toolkit:ContextMenu>
+                            </toolkit:ContextMenuService.ContextMenu>
+                            <Rectangle Height="60" Stroke="Black" StrokeThickness="3" Fill="White" />
+                            <toolkit:DatePicker Name="DatePicker_Purchase" Width="400" Background="White" BorderBrush="Black" Foreground="Black" ManipulationStarted="DatePicker_ManipulationStarted" />
+                            <TextBlock Margin="0,10,0,0" FontSize="32" Height="60" Width="395" Text="Set" Tap="TextBlock_Set_Tap" Foreground="Black" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+                        <TextBlock Margin="10,10,0,0" Text="Start Read Date:" FontSize="24" HorizontalAlignment="Left" Width="200" Height="40" VerticalAlignment="Top"/>
+                        <Grid Margin="13,10,0,0" Width="395">
+                            <!--コンテキストメニューの定義-->
+                            <toolkit:ContextMenuService.ContextMenu>
+                                <toolkit:ContextMenu IsZoomEnabled="true">
+                                    <toolkit:MenuItem Header="Clear" Click="MenuItem_Clear_Click" />
+                                </toolkit:ContextMenu>
+                            </toolkit:ContextMenuService.ContextMenu>
+                            <Rectangle Height="60" Stroke="Black" StrokeThickness="3" Fill="White" />
+                            <toolkit:DatePicker Name="DatePicker_StartRead" Width="400" Background="White" BorderBrush="Black" Foreground="Black" ManipulationStarted="DatePicker_ManipulationStarted" />
+                            <TextBlock Margin="0,10,0,0" FontSize="32" Height="60" Width="395" Text="Set" Tap="TextBlock_Set_Tap" Foreground="Black" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+                        <TextBlock Margin="10,10,0,0" Text="Finish Read Date:" FontSize="24" HorizontalAlignment="Left" Width="200" Height="40" VerticalAlignment="Top"/>
+                        <Grid Margin="13,10,0,0" Width="395">
+                            <!--コンテキストメニューの定義-->
+                            <toolkit:ContextMenuService.ContextMenu>
+                                <toolkit:ContextMenu IsZoomEnabled="true">
+                                    <toolkit:MenuItem Header="Clear" Click="MenuItem_Clear_Click" />
+                                </toolkit:ContextMenu>
+                            </toolkit:ContextMenuService.ContextMenu>
+                            <Rectangle Height="60" Stroke="Black" StrokeThickness="3" Fill="White" />
+                            <toolkit:DatePicker Name="DatePicker_FinishRead" Width="400" Background="White" BorderBrush="Black" Foreground="Black" ManipulationStarted="DatePicker_ManipulationStarted" />
+                            <TextBlock Margin="0,10,0,0" FontSize="32" Height="60" Width="395" Text="Set" Tap="TextBlock_Set_Tap" Foreground="Black" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+
+                        <TextBlock Margin="10,10,0,0" Text="Created Date:" FontSize="24" HorizontalAlignment="Left" Width="162" Height="40" VerticalAlignment="Top"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="20,10,0,0" x:Name="TextBlock_CreateDate" Text="Create Date"   FontSize="26" HorizontalAlignment="Left" TextAlignment="Left"/>
+                            <TextBlock Margin="30,10,0,0" x:Name="TextBlock_CreateDayOfWeek" TextWrapping="Wrap" Text="Create DayOfWeek"   FontSize="26" HorizontalAlignment="Left" TextAlignment="Left"/>
+                        </StackPanel>
+                        <TextBlock Margin="10,10,0,0" Text="Note:" FontSize="24" HorizontalAlignment="Left" Width="191" Height="40" VerticalAlignment="Top"/>
+                        <ScrollViewer Name="ScrollViewer_Note" BorderBrush="Black" Background="White" BorderThickness="3" Height="250" Width="400" Margin="10">
+                            <toolkit:PhoneTextBox  Hint="Note" x:Name="TextBox_Note" TextWrapping="Wrap" Margin="-3,0,-6,0" Padding="0" FontSize="26" AcceptsReturn="True" TextInputStart="TextBox_Note_TextInputStart" Background="White" BorderBrush="#BF000000" Foreground="Black" KeyUp="TextBox_Note_KeyUp" BorderThickness="0" DoubleTap="TextBox_DoubleTap" />
+                        </ScrollViewer>
+                    </ListBox>
+                </Grid>
+
+            </controls:PanoramaItem>
+        </controls:Panorama>
+    </Grid>
+
+
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="SaveButton" IconUri="/Icons/save.png" Text="Save" Click="SaveButton_Click" />
+            <shell:ApplicationBarIconButton x:Name="DownloadButton" IconUri="/Icons/download.png" Text="Download" Click="DownloadButton_Click" />
+
+        </shell:ApplicationBar>
+
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>
